@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: latet-agent
+pool: self-agent
 
 steps:
 - task: Maven@3
